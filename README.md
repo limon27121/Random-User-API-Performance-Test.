@@ -37,3 +37,17 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 
 - [Load Test Report](https://docs.google.com/spreadsheets/d/121nTBteS05izUALUWwnE9gxOGnvI2QX_/edit?usp=sharing&ouid=104070522484952617929&rtpof=true&sd=true)
 - [Stress Test Report](https://docs.google.com/spreadsheets/d/121nTBteS05izUALUWwnE9gxOGnvI2QX_/edit#gid=1826848062)
+
+### Screenshots
+
+# Load Testing Picture
+<img src="loadtesting.png" alt="Load Testing Screenshot" width="900">
+
+
+# Stress Testing Picture
+<img src="stress testing.png" alt="Stress Testing Screenshot" width="900">
+
+
+
+
+
