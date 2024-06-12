@@ -1,6 +1,11 @@
-# Simple Grocery Store API Performance Testing
+# Random User Generator API
 
-This repository contains the results of performance testing conducted on the Simple Grocery Store API, specifically targeting the `/products` endpoint. The tests include load testing, stress testing, and capacity analysis.
+## Introduction
+
+The Random User Generator API is a simple and powerful API that allows developers to generate random user data for use in their applications. This API can return user data in various formats, including JSON, XML, CSV, and YAML, making it flexible and easy to integrate with different systems. Whether you need to populate a database with test users, create mock data for your applications, or simply explore random user profiles, this API is a perfect tool for the job.
+
+This README will guide you through the process of using the Random User Generator API with jQuery to fetch random user data and handle the results.
+
 
 ## Table of Contents
 
