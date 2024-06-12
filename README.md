@@ -35,8 +35,8 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 
 ### Excel Reports
 
-- [Load Test Report](https://docs.google.com/spreadsheets/d/121nTBteS05izUALUWwnE9gxOGnvI2QX_/edit?usp=sharing&ouid=104070522484952617929&rtpof=true&sd=true)
-- [Stress Test Report](https://docs.google.com/spreadsheets/d/121nTBteS05izUALUWwnE9gxOGnvI2QX_/edit#gid=1826848062)
+- [Load Test Report](https://docs.google.com/spreadsheets/d/1A-Aceno4KY2Ughyuj_ARp0g-dO9st-I8/edit?gid=1082269937#gid=1082269937)
+- [Stress Test Report](https://docs.google.com/spreadsheets/d/1A-Aceno4KY2Ughyuj_ARp0g-dO9st-I8/edit?gid=910062733#gid=910062733)
 
 ### Screenshots
 
