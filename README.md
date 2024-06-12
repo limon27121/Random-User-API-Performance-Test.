@@ -17,6 +17,7 @@ This README will guide you through the process of using the Random User Generato
 - [Results](#results)
   - [Excel Reports](#excel-reports)
   - [Screenshots](#screenshots)
+  
 
 ## Overview
 
@@ -46,11 +47,16 @@ Capacity analysis was conducted to establish the maximum number of requests the 
 ### Screenshots
 
 # Load Testing Picture
-<img src="loadtesting.png" alt="Load Testing Screenshot" width="900">
+<img src="load.png" alt="Load Testing Screenshot" width="900">
 
 
 # Stress Testing Picture
-<img src="stress testing.png" alt="Stress Testing Screenshot" width="900">
+<img src="stress.png" alt="Stress Testing Screenshot" width="900">
+
+# Testing Report Picture
+<img src="test01.png" alt=" Testing report Screenshot" width="900">
+<img src="statistics.png" alt="Stress report Screenshot" width="900">
+
 
 
 
